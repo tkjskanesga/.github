@@ -1,3 +1,3 @@
 # .github
 
-Only hitHub profiles for our community! 💖
+GitHub profiles for our community! 💖
