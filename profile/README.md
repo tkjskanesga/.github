@@ -1,4 +1,4 @@
-![Banner!](/profile/banner-tkjskanesga.webp)
+![TKJ Skanesga - Teknik Komputer & Jaringan](/profile/banner-tkjskanesga.webp)
 
 ## Hey, it's us, we are TKJ Skanesga! 👋
 
