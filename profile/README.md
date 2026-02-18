@@ -1,3 +1,5 @@
+<img src="./banner-tkjskanesga.webp" width="100%"/>
+
 ## Hey, it's us, we are TKJ Skanesga! 👋
 
 We are a collaborative platform between students and teachers to develop technology and software solutions that we use at school!
