@@ -1,4 +1,4 @@
-<img src="./banner-tkjskanesga.webp" width="100%"/>
+![Banner!](/profile/banner-tkjskanesga.webp)
 
 ## Hey, it's us, we are TKJ Skanesga! 👋
 
